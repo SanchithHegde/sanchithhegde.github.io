@@ -52,7 +52,7 @@ iconOrder = ["GitHub", "Twitter"]
   # Controls the navigation
 [[menu.main]]
 identifier = "about"
-name       = "about"
+name       = "About"
 title      = "About"
 url        = "/"
 
@@ -64,6 +64,6 @@ url        = "/"
 
 [[menu.main]]
 identifier = "projects"
-name       = "projects"
+name       = "Projects"
 title      = "Projects"
 url        = "/projects"
