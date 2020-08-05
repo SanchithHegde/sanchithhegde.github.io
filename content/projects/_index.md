@@ -4,7 +4,7 @@ date: 2020-08-05T02:00:00+05:30
 slug: "projects"
 description: "All my projects till date."
 keywords: ["projects"]
-draft: true
+draft: false
 tags: ["projects"]
 math: false
 toc: false
