@@ -70,3 +70,9 @@ identifier = "projects"
 name       = "Projects"
 title      = "Projects"
 url        = "/projects"
+
+[[menu.main]]
+identifier = "uses"
+name       = "Uses"
+title      = "Uses"
+url        = "/uses"
