@@ -31,7 +31,7 @@ github  = "https://github.com/SanchithHegde"
 # Titles for your icons (shown as tooltips), and also their display order.
 # Currently, these icons are supported: 
 #   "Twitter", "GitHub", "Email", "Facebook", "GitLab", "Instagram", "LinkedIn", "YouTube"
-iconOrder = ["GitHub", "Twitter"]
+iconOrder = [ "GitHub", "Twitter" ]
 
 # Metadata for Twitter cards, defaults to params.twitter
 # twitterSite = "@<your handle>"
