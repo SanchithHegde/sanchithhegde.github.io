@@ -1,6 +1,5 @@
 ---
 title: "Uses"
-date: 2020-08-06T01:00:00+05:30
 slug: "uses"
 description: "Everything I use."
 keywords: ["uses"]
