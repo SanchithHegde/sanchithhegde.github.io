@@ -20,6 +20,9 @@ theme for most of my development work. The only exception is when I'm working on
 something Android related, for which I use Android Studio. I also tend to use
 [`micro`](https://github.com/zyedidia/micro) for quick edits on the terminal.
 
+All my config files can be found in my
+[dotfiles repo](https://github.com/SanchithHegde/dotfiles).
+
 ## Hardware
 
 ### Laptop
