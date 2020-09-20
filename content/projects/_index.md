@@ -11,10 +11,10 @@ toc: false
 
 Some projects I've worked on and contributed to include:
 
-- **One-click attendance using facial recognition:** Our submission for YI
-  (Young Indians) InnovIndia-2020 Virtual Hackathon 2020 conducted on the 31st
-  July, 2020. We were one among the two winners from Mysuru. The source code is
-  in a private repo as of now. We have plans of open-sourcing it soon.
+- [**One-click attendance using facial recognition**](https://github.com/yi-hackathon-2020/attendance-facial-recognition):
+  Our submission for YI (Young Indians) InnovIndia-2020 Virtual Hackathon 2020
+  conducted on the 31st July, 2020. We were one among the two winners from
+  Mysuru.
 - [**Tic-Tac-Toe Android game**](https://github.com/SanchithHegde/tic-tac-toe-android/):
   Single-player Tic-Tac-Toe game implementing the Monte-Carlo tree search
   algorithm, in Java.
