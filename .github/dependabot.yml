@@ -6,4 +6,8 @@ updates:
       interval: weekly
       time: "11:00"
       timezone: Asia/Kolkata
+    labels:
+      - "CI/CD"
+    commit-message:
+      prefix: ci
     open-pull-requests-limit: 25
