@@ -4,7 +4,7 @@ theme = "hugo-theme-codex"
 title        = "Sanchith Hegde"
 languageCode = "en-us"
 baseURL      = "https://example.org/"
-copyright    = "© Sanchith Hegde {year}"
+copyright    = "© Sanchith Hegde 2020-{year}"
 
 # Add your Disqus shortname here.
 # disqusShortname = ""
