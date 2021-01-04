@@ -21,6 +21,9 @@ Some projects I've worked on and contributed to include:
 
 Apart from these, I've worked on some projects as part of my academics:
 
+- Developed a simple
+  [university practical examination scheduling system](https://github.com/SanchithHegde/university-practical-exam)
+  as part of my database management systems course.
 - Case study on Raspbian, the Debian-based OS for the Raspberry Pi as part of
   my Operating Systems course.
 - Simulated the Linux process scheduler, the Completely Fair Scheduler (CFS) in
