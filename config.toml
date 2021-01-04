@@ -3,7 +3,7 @@ theme = "hugo-theme-codex"
 # Override these settings with your own
 title        = "Sanchith Hegde"
 languageCode = "en-us"
-baseURL      = "https://example.org/"
+baseURL      = "https://sanchithhegde.github.io/"
 copyright    = "© Sanchith Hegde 2020-{year}"
 
 # Add your Disqus shortname here.
