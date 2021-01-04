@@ -4,7 +4,6 @@ slug: "uses"
 description: "Everything I use."
 keywords: ["uses"]
 draft: false
-tags: ["uses"]
 math: false
 toc: false
 ---
