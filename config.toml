@@ -52,7 +52,7 @@ showPageTitleInTOC = false
   [markup.goldmark.renderer]
   unsafe = true
 
-  # Controls the navigation
+# Controls the navigation
 [[menu.main]]
 identifier = "about"
 name       = "About"
