@@ -4,7 +4,7 @@ date: 2021-01-04
 slug: "sowing-the-seeds-of-my-digital-garden"
 description: ""
 keywords: []
-draft: true
+draft: false
 tags: []
 math: false
 toc: false
