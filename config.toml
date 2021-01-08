@@ -60,10 +60,10 @@ title      = "About"
 url        = "/"
 
 [[menu.main]]
-identifier = "blog"
+identifier = "posts"
 name       = "Blog"
 title      = "Blog"
-url        = "/blog"
+url        = "/posts"
 
 [[menu.main]]
 identifier = "projects"
