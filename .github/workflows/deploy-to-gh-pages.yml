@@ -22,7 +22,7 @@ jobs:
       - name: Build Hugo Site
         run: hugo --minify --gc
 
-      - name: Deploy Hugo Site to GitHup Pages
+      - name: Deploy Hugo Site to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
