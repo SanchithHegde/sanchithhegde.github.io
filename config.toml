@@ -56,23 +56,19 @@ showPageTitleInTOC = false
 [[menu.main]]
 identifier = "about"
 name       = "About"
-title      = "About"
 url        = "/"
 
 [[menu.main]]
 identifier = "posts"
 name       = "Blog"
-title      = "Blog"
 url        = "/posts"
 
 [[menu.main]]
 identifier = "projects"
 name       = "Projects"
-title      = "Projects"
 url        = "/projects"
 
 [[menu.main]]
 identifier = "uses"
 name       = "Uses"
-title      = "Uses"
 url        = "/uses"
