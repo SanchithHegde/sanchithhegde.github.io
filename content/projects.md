@@ -4,6 +4,7 @@ slug: "projects"
 description: "All my projects till date."
 keywords: ["projects"]
 draft: false
+pagination: false
 math: false
 toc: false
 ---
