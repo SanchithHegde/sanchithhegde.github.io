@@ -12,19 +12,14 @@ toc: false
 ## Editor + Terminal
 
 I use `Konsole` that ships with the KDE Plasma desktop environment with `zsh`
-along with [`zinit`](https://github.com/zdharma/zinit) plugin manager and
-[`powerlevel10k`](https://github.com/romkatv/powerlevel10k) theme on my Arch
-Linux system.
-I use VS Code with the
-[Ayu Dark](https://marketplace.visualstudio.com/items?itemName=teabyii.ayu)
-theme for most of my development work.
+along with [`zinit`][zinit] plugin manager and [`powerlevel10k`][powerlevel10k]
+theme on my Arch Linux system.
+I use VS Code with the [Ayu Dark][ayu] theme for most of my development work.
 The only exception is when I'm working on something Android related, for which I
 use Android Studio.
-I also tend to use [`micro`](https://github.com/zyedidia/micro) for quick edits
-on the terminal.
+I also tend to use [`micro`][micro] for quick edits on the terminal.
 
-All my config files can be found in my
-[dotfiles repo](https://github.com/SanchithHegde/dotfiles).
+All my config files can be found in my [dotfiles repo][dotfiles].
 
 ## Hardware
 
@@ -36,3 +31,9 @@ graphics.
 ### Phone
 
 Xiaomi Redmi Note 5 Pro running a custom ROM.
+
+[zinit]: https://github.com/zdharma/zinit
+[powerlevel10k]: https://github.com/romkatv/powerlevel10k
+[ayu]: https://marketplace.visualstudio.com/items?itemName=teabyii.ayu
+[micro]: https://github.com/zyedidia/micro
+[dotfiles]: https://github.com/SanchithHegde/dotfiles
